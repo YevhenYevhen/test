@@ -1,0 +1,1 @@
+const newConst = 'new'
